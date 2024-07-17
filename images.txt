@@ -4,3 +4,5 @@ zabbix/zabbix-web-nginx-mysql:7.0-centos-latest
 mysql:8.4.1
 mysql:8.0.38
 mysql:8.0.36
+zabbix/zabbix-agent2:alpine-7.0.0
+zabbix/zabbix-proxy-sqlite3:alpine-7.0.0
