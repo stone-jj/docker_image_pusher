@@ -1,3 +1,4 @@
 zabbix/zabbix-server-mysql:7.0-centos-latest
 zabbix/zabbix-proxy-mysql:7.0-centos-latest
 zabbix/zabbix-web-nginx-mysql:7.0-centos-latest
+mysql:8.4.1
