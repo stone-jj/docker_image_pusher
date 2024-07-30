@@ -10,3 +10,4 @@ leixuewen/arthas-tunnel-server:latest
 hengyunabc/arthas:latest
 rancher/shell:v0.1.25
 busybox:stable
+centos:7.9.2009
