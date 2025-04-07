@@ -17,4 +17,4 @@ nacos/nacos-server:v2.4.3
 container-registry.oracle.com/database/free:latest
 rabbitmq:3.12-management
 rancher/rke-tools:v0.1.75
-docker pull zabbix/zabbix-proxy-mysql:7.0.11-centos
+zabbix/zabbix-proxy-mysql:7.0.11-centos
