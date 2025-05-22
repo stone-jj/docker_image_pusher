@@ -1,1 +1,2 @@
 jenkins/jenkins:2.510-jdk21
+eclipse-temurin:21.0.7_6-jdk
