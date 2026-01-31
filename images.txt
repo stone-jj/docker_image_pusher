@@ -1,2 +1,3 @@
 velero/velero:latest
 velero/velero-plugin-for-aws:latest
+rancher/rancher:stable
