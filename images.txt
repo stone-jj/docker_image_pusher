@@ -10,3 +10,4 @@ rancher/mirrored-bci-micro:15.6.24.2
 rancher/system-agent:v0.3.14-suc
 rancher/system-upgrade-controller:v0.17.0
 rancher/system-agent-installer-k3s:v1.34.3-k3s1
+goharbor/prepare:v2.14.2
