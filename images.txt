@@ -3,5 +3,5 @@ nginx:stable
 bitnamilegacy/redis:7.2.5-debian-12-r4
 bitnamilegacy/redis-sentinel:7.2.5-debian-12-r4
 bitnamilegacy/redis-exporter:1.62.0-debian-12-r2
-bitnamilegacy/os-shel:12-debian-12-r27
+bitnamilegacy/os-shell:12-debian-12-r27
 bitnamilegacy/kubectl:1.30.3-debian-12-r4
