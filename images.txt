@@ -1,1 +1,2 @@
 rancher/mirrored-coredns-coredns:1.13.1
+rancher/klipper-helm:v0.9.12-build20251215
