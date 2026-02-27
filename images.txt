@@ -1,1 +1,1 @@
---platform=linux/arm64 percona/percona-xtrabackup:8.4
+passbolt/passbolt:latest-ce
