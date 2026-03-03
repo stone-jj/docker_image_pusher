@@ -1,2 +1,2 @@
---platform=arm64 zabbix-proxy-mysql:7.0-ol-latest
+--platform=arm64 zabbix/zabbix-proxy-mysql:7.0-ol-latest
 --platform=arm64 zabbix/zabbix-agent2:7.0-ol-latest
