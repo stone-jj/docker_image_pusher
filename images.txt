@@ -1,2 +1,1 @@
-mcr.microsoft.com/dotnet/sdk:9.0
-mcr.microsoft.com/dotnet/aspnet:9.0
+tomcat:8.5.99-jre8
