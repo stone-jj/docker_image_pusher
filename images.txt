@@ -1,1 +1,1 @@
-tomcat:8.5.99-jre8
+mcr.microsoft.com/dotnet/aspnet:3.1
