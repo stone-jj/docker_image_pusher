@@ -1,1 +1,1 @@
-rancher/fleet-agent:v0.9.17
+postgres:18.4
